@@ -39,6 +39,10 @@ npm run lint     # Run ESLint
 - [Sri Aurobindo Ashram](https://www.sriaurobindoashram.org/)
 - [Auroville](https://auroville.org/)
 
+## Author
+
+Arjun Myanger - [GitHub](https://github.com/amyanger)
+
 ## License
 
 MIT License
