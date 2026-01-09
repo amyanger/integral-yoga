@@ -25,7 +25,20 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the site.
 
+## Scripts
+
+```bash
+npm run dev      # Start development server
+npm run build    # Build for production
+npm run start    # Start production server
+npm run lint     # Run ESLint
+```
+
 ## Learn More
 
 - [Sri Aurobindo Ashram](https://www.sriaurobindoashram.org/)
 - [Auroville](https://auroville.org/)
+
+## License
+
+MIT License
